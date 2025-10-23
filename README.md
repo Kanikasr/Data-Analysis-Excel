@@ -20,7 +20,7 @@ The project aims to perform a thorough analysis of Hollywood Insights Inc.'s com
 15. company: Production company (String)
 16. runtime: Runtime in minutes (Float)
 
-##Conclusion-
+## Conclusion-
 1. Data-driven insights reveal clear industry patterns, showing how factors like budget, genre, and IMDb ratings significantly influence a movie’s financial success.
 2. Budget and Gross earnings show a positive correlation, indicating that higher investments often lead to higher box-office returns — though exceptions highlight the importance of content quality and audience   appeal.
 3. Genre analysis identified the most and least popular categories, helping producers and marketers understand shifting audience preferences across time and regions.
