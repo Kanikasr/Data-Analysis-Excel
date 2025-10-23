@@ -3,22 +3,22 @@
 The project aims to perform a thorough analysis of Hollywood Insights Inc.'s comprehensive movie dataset to uncover insights into the dynamics of the movie industry. Students will use advanced Excel techniques to explore various facets of the dataset, including trends in movie genres, financial analysis of movie budgets and earnings, and the impact of directors and stars on movie success. Key tasks involve data cleaning, manipulation, visualization, and the creation of an interactive dashboard that captures the essence of the movie industry's trends and patterns. This project is intended to enhance Hollywood Insights Inc.'s ability to provide strategic guidance to its clients, enabling better decision-making in film production, marketing, and distribution. The analysis will also contribute to understanding the evolving landscape of the movie industry, potentially influencing future trends in filmmaking and audience engagement.
 
 ## Dataset-
-1. The "movies.csv" file contains data about various movies. Here's an overview of its structure and the type of data it includes:
-2. name: Movie name (String)
-3. rating: Movie rating (String)
-4. genre: Genre of the movie (String)
-5. year: Year of release (Integer)
-6. released: Release date (String, includes country)
-7. score: IMDb score (Float)
-8. votes: Number of votes on IMDb (Float)
-9. director: Director's name (String)
-10. writer: Writer's name (String)
-11. star: Main star's name (String)
-12. country: Country of origin (String)
-13. budget: Production budget (Float)
-14. gross: Gross earnings (Float)
-15. company: Production company (String)
-16. runtime: Runtime in minutes (Float)
+The "movies.csv" file contains data about various movies. Here's an overview of its structure and the type of data it includes:
+1. name: Movie name (String)
+2. rating: Movie rating (String)
+3. genre: Genre of the movie (String)
+4. year: Year of release (Integer)
+5. released: Release date (String, includes country)
+6. score: IMDb score (Float)
+7. votes: Number of votes on IMDb (Float)
+8. director: Director's name (String)
+9. writer: Writer's name (String)
+10. star: Main star's name (String)
+11. country: Country of origin (String)
+12. budget: Production budget (Float)
+13. gross: Gross earnings (Float)
+14. company: Production company (String)
+15. runtime: Runtime in minutes (Float)
 
 ## Conclusion-
 1. Data-driven insights reveal clear industry patterns, showing how factors like budget, genre, and IMDb ratings significantly influence a movie’s financial success.
