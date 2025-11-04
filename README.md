@@ -21,6 +21,7 @@ The "movies.csv" file contains data about various movies. Here's an overview of 
 13. gross: Gross earnings (Float)
 14. company: Production company (String)
 15. runtime: Runtime in minutes (Float)
+<img width="1199" height="628" alt="Image" src="https://github.com/user-attachments/assets/4f88ad25-beb7-4ce6-94d8-e6c692f5d887" />
 
 ## Conclusion-
 1. Data-driven insights reveal clear industry patterns, showing how factors like budget, genre, and IMDb ratings significantly influence a movie’s financial success.
