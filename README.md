@@ -1,4 +1,4 @@
-# CinemaScope Analytics: Unveiling the Dynamics of Movie Success
+# Movie Performance Analysis
 <img width="1920" height="1000" alt="Image" src="https://github.com/user-attachments/assets/445eea7d-2dcf-4bbf-ab14-9bfb2efcd39a" />
 
 ## Objective-
